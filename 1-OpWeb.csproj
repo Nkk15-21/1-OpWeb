@@ -99,6 +99,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About4.aspx" />
     <Content Include="About3.aspx" />
     <Content Include="About2.aspx" />
     <Content Include="About.aspx" />
@@ -185,6 +186,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About4.aspx.cs">
+      <DependentUpon>About4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About4.aspx.designer.cs">
+      <DependentUpon>About4.aspx</DependentUpon>
+    </Compile>
     <Compile Include="About3.aspx.cs">
       <DependentUpon>About3.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

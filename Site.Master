@@ -48,10 +48,11 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/">KODU</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Meie õpilased</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Lisa õpilased</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Lisa õpilased</a></li>
 
-                            <li class="nav-item"><a class="nav-link" runat="server" href="~/About2">Rühmad</a></li>
-                                 <li class="nav-item"><a class="nav-link" runat="server" href="~/About3">AUTOD</a></li>
+                             <li class="nav-item"><a class="nav-link" runat="server" href="~/About2">Rühmad</a></li>
+                                 <li class="nav-item"><a class="nav-link" runat="server" href="~/About3">Autod</a></li>
+                                    <li class="nav-item"><a class="nav-link" runat="server" href="~/About4">Lisa autod</a></li>
                     </ul>
                 </div>
             </div>
